@@ -4,5 +4,9 @@ Get the release essentials zip, only the ffmpeg.exe is needed.
 https://github.com/ggml-org/whisper.cpp/actions/workflows/build.yml
 Get a nice whisper-bin-x64.zip from the artifacts, You'll have to scroll down a bit.
 
+
+https://huggingface.co/KBLab/kb-whisper-large
+
+
 https://www.dropbox.com/scl/fo/29c971fndx1gvh8rvhm54/AHcPXF3wrd-jA8hpnxBK6nY?rlkey=9c6oinxgrtuca0rismtjw7bux&e=1&st=uw4ntx2v&dl=0
 Get all for ggml files from Anders Bjarby. Nice of him.
